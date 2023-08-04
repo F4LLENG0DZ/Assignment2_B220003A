@@ -1,0 +1,17 @@
+Bil = 1, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Kebidanan, Min = 962, Max = 1203, Total = 6598
+Bil = 2, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Penjagaan Rapi, Min = 113, Max = 147, Total = 771
+Bil = 3, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Perawatan Perioperatif, Min = 104, Max = 160, Total = 802
+Bil = 4, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Kesihatan Kardiovascular, Min = 107, Max = 136, Total = 719
+Bil = 5, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Perawatan Onkologi, Min = 0, Max = 55, Total = 260
+Bil = 6, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Perawatan Gerontologi, Min = 11, Max = 57, Total = 158
+Bil = 7, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Sitologi, Min = 0, Max = 24, Total = 58
+Bil = 8, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Transfusi Darah, Min = 0, Max = 38, Total = 38
+Bil = 9, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Histopatologi, Min = 0, Max = 14, Total = 14
+Bil = 10, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Pengimejan Perubatan (Payudara), Min = 0, Max = 16, Total = 50
+Bil = 11, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Haematologi, Min = 0, Max = 27, Total = 70
+Bil = 12, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Penjagaan Paliatif, Min = 17, Max = 20, Total = 108
+Bil = 13, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Perawatan Kesihatan Mental, Min = 61, Max = 98, Total = 482
+Bil = 14, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Penjagaan Kecemasan, Min = 235, Max = 535, Total = 2422
+Bil = 15, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Pengurusan Penjagaan Kesihatan, Min = 0, Max = 39, Total = 119
+Bil = 16, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Penjagaan Respiratori, Min = 0, Max = 27, Total = 59
+Bil = 17, Program =  Diploma Lanjutan, Kursus = Diploma Lanjutan Rehabilitasi Neuro, Min = 0, Max = 25, Total = 30

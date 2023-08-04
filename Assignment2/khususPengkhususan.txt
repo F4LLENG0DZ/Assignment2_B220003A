@@ -1,0 +1,45 @@
+Bil = 18, Program = Kursus Pengkhususan, Kursus = Perawatan Renal/ Nefrologi, Min = 331, Max = 381, Total = 2157
+Bil = 19, Program = Kursus Pengkhususan, Kursus = Kejururawatan Kesihatan Awam, Min = 206, Max = 326, Total = 1634
+Bil = 20, Program = Kursus Pengkhususan, Kursus = Perawatan Pediatrik, Min = 182, Max = 283, Total = 1440
+Bil = 21, Program = Kursus Pengkhususan, Kursus = Perawatan Ortopedik, Min = 200, Max = 249, Total = 1393
+Bil = 22, Program = Kursus Pengkhususan, Kursus = Perawatan Neonat, Min = 140, Max = 237, Total = 1115
+Bil = 23, Program = Kursus Pengkhususan, Kursus = Pengurusan Diabetis, Min = 142, Max = 233, Total = 1034
+Bil = 24, Program = Kursus Pengkhususan, Kursus = Kawalan Infeksi, Min = 143, Max = 176, Total = 987
+Bil = 25, Program = Kursus Pengkhususan, Kursus = Perawatan Oftalmik, Min = 47, Max = 80, Total = 370
+Bil = 26, Program = Kursus Pengkhususan, Kursus = Penjagaan Kesihatan Primer, Min = 52, Max = 109, Total = 427
+Bil = 27, Program = Kursus Pengkhususan, Kursus = Perawatan Perianestesia, Min = 104, Max = 154, Total = 773
+Bil = 28, Program = Kursus Pengkhususan, Kursus = Pengurusan Makmal, Min = 0, Max = 0, Total = 0
+Bil = 29, Program = Kursus Pengkhususan, Kursus = Perawatan Neurosains, Min = 32, Max = 63, Total = 284
+Bil = 30, Program = Kursus Pengkhususan, Kursus = Perawatan Otorinolaringologi, Min = 30, Max = 54, Total = 262
+Bil = 31, Program = Kursus Pengkhususan, Kursus = Perubatan Sukan, Min = 0, Max = 50, Total = 147
+Bil = 32, Program = Kursus Pengkhususan, Kursus = Gastrointestinal Endoscopy, Min = 51, Max = 99, Total = 446
+Bil = 33, Program = Kursus Pengkhususan, Kursus = Penyiasatan & Pendakwaan Undang-Undang, Min = 10, Max = 19, Total = 80
+Bil = 34, Program = Kursus Pengkhususan, Kursus = Perawatan Rehabilitasi, Min = 30, Max = 52, Total = 265
+Bil = 35, Program = Kursus Pengkhususan, Kursus = Rawatan Ortodontik, Min = 0, Max = 26, Total = 77
+Bil = 36, Program = Kursus Pengkhususan, Kursus = Kesihatan Persekitaran, Min = 0, Max = 0, Total = 0
+Bil = 37, Program = Kursus Pengkhususan, Kursus = Anaesthesia, Min = 0, Max = 18, Total = 57
+Bil = 38, Program = Kursus Pengkhususan, Kursus = Rawatan Peridontik, Min = 0, Max = 22, Total = 22
+Bil = 39, Program = Kursus Pengkhususan, Kursus = Kaunseling HIV/AIDS, Min = 14, Max = 98, Total = 322
+Bil = 40, Program = Kursus Pengkhususan, Kursus = Pembedahan Mulut (Maksilofasial), Min = 0, Max = 0, Total = 0
+Bil = 41, Program = Kursus Pengkhususan, Kursus = Kesihatan & Keselamatan Pekerja, Min = 0, Max = 0, Total = 0
+Bil = 42, Program = Kursus Pengkhususan, Kursus = Mikrobiologi Perubatan, Min = 0, Max = 20, Total = 20
+Bil = 43, Program = Kursus Pengkhususan, Kursus = Penjagaan Pergigian Pediatrik, Min = 0, Max = 25, Total = 25
+Bil = 44, Program = Kursus Pengkhususan, Kursus = Hemeostasis, Min = 0, Max = 0, Total = 0
+Bil = 45, Program = Kursus Pengkhususan, Kursus = Sediaan Farmaseutikal Steril, Min = 0, Max = 19, Total = 81
+Bil = 46, Program = Kursus Pengkhususan, Kursus = Patologi Kimia, Min = 0, Max = 0, Total = 0
+Bil = 47, Program = Kursus Pengkhususan, Kursus = Neurofisiologi Klinikal, Min = 0, Max = 10, Total = 10
+Bil = 48, Program = Kursus Pengkhususan, Kursus = Tomografi Berkomputer, Min = 0, Max = 48, Total = 79
+Bil = 49, Program = Kursus Pengkhususan, Kursus = Forensik, Min = 0, Max = 18, Total = 72
+Bil = 50, Program = Kursus Pengkhususan, Kursus = Parasitologi, Min = 0, Max = 0, Total = 0
+Bil = 51, Program = Kursus Pengkhususan, Kursus = Muskulo - Skeletal, Min = 0, Max = 0, Total = 0
+Bil = 52, Program = Kursus Pengkhususan, Kursus = Keselamatan & Kebersihan Makanan, Min = 0, Max = 0, Total = 0
+Bil = 53, Program = Kursus Pengkhususan, Kursus = Prostesis Maksilofasial, Min = 0, Max = 16, Total = 16
+Bil = 54, Program = Kursus Pengkhususan, Kursus = Perancangan Terapi Pancaran, Min = 0, Max = 0, Total = 0
+Bil = 55, Program = Kursus Pengkhususan, Kursus = Bioteknologi, Min = 0, Max = 0, Total = 0
+Bil = 56, Program = Kursus Pengkhususan, Kursus = Cytogenetics, Min = 0, Max = 0, Total = 0
+Bil = 57, Program = Kursus Pengkhususan, Kursus = Epidemiologi dan Kawalan Penyakit, Min = 0, Max = 18, Total = 18
+Bil = 58, Program = Kursus Pengkhususan, Kursus = Kardiopulmonari Fisioterapi, Min = 0, Max = 0, Total = 0
+Bil = 59, Program = Kursus Pengkhususan, Kursus = Neurologi Fisioterapi, Min = 0, Max = 0, Total = 0
+Bil = 60, Program = Kursus Pengkhususan, Kursus = Penjagaan Dermatologi, Min = 0, Max = 36, Total = 59
+Bil = 61, Program = Kursus Pengkhususan, Kursus = Penjagaan Luka, Min = 0, Max = 30, Total = 30
+Bil = 62, Program = Kursus Pengkhususan, Kursus = Penjagaan Reumatologi, Min = 0, Max = 14, Total = 14
